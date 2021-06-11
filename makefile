@@ -4,4 +4,6 @@ main:
 clean:
 	rm -r build/colour-lib
 	rm -r src/__pycache__
-	
+
+lib:
+	mv src/main.py ../colourlib.py
