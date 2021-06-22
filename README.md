@@ -1,3 +1,3 @@
 # colour-lib
-A 'light weight' library for colour in python!
+A libary for colour and other useful things in python!
 
